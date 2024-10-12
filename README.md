@@ -1,9 +1,5 @@
 # SCT_ML_1
 SKILLCRAFT TECHNOLOGY INTERNSHIP
-Here's an example of a **README** file for your linear regression house price prediction project. It will explain the structure of the project, how to run the code, and give an overview of the steps and the expected output.
-
----
-
 # House Price Prediction using Linear Regression
 
 ## Project Overview
